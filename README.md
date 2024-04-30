@@ -1,4 +1,4 @@
-Hi ![](https://tenor.com/blOVi.gif)My name is Sébastien Chapuy
+Hi ![](https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif)My name is Sébastien Chapuy
 ========================================================================================================================================
 
 * 🌍  I'm based in Paris
