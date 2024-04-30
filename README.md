@@ -20,8 +20,6 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 ---
 <details>
     <summary><h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h3></summary><br/>
-    
-    
     ![Devtrotter stat](https://github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&theme=tokyonight)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devtrotter&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/Devtrotter/github-readme-stats)
 </details>
