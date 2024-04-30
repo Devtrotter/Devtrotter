@@ -20,6 +20,23 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 ---
 <details>
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devtrotter&theme=radical&border=7F3FBF&background=0D1117" alt="Devtrotter" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/Devtrotter">
+        <img alt="Devtrotter Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+    <a href="https://github.com/Devtrotter">
+        <img alt="Devtrotter Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Devtrotter&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devtrotter&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Devtrotter" />
+</p>
     
 ![Devtrotter stat](https://github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devtrotter&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/Devtrotter/github-readme-stats)
