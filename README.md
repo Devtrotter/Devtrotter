@@ -1,4 +1,4 @@
-Hi ! I'm Sébastien Chapuy (💻💜🔥)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi ! I'm Sébastien Chapuy (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=500&pause=1000&color=7A39F7&random=false&width=435&lines=5%2B+years++%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB;(Freelance+%2F+CEO)+%F0%9F%92%8E;(%F0%9F%A4%96+Ai++%7C+%E2%9B%93%EF%B8%8F+Web+3+)+%F0%9F%92%9C)](https://git.io/typing-svg)
 
