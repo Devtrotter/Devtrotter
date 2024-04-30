@@ -15,6 +15,7 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,next,vite,firebase,mongodb,git,figma,vscode,apple,github,gitlab,jest,kali,materialui,netlify,npm,postgres,redux,regex,styledcomponents,tailwind,threejs&theme=dark)
 
+---
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
@@ -23,5 +24,9 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 
 </details>
 
+---
+
 
 <img src="Images/snake.svg" style="background:#161b22;">
+
+💻💜🚀 by [Sébastien Chapuy](https://www.linkedin.com/in/devtrotter/)
