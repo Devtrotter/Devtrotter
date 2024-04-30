@@ -1,6 +1,6 @@
 Hi ! I'm Sébastien Chapuy (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12+Charted&weight=500&pause=1000&color=7A39F7&random=false&width=435&lines=%5B5%2B+years%5D%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB;%5BCEO%2FFREELANCE%5D%F0%9F%92%8E;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWEB3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey&weight=500&pause=1000&color=7A39F7&random=false&width=435&lines=%5B5%2B+years%5D%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB;%5BCEO%2FFREELANCE%5D%F0%9F%92%8E;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWEB3%5D%F0%9F%92%9C;%5BDEVTROTTER%5D%F0%9F%A6%B8%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 
 * 🌍  I'm based in Paris
 * 🖥️  See my portfolio at [Devtrotter](http://www.devtrotter.fr/)
