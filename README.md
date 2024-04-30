@@ -19,7 +19,10 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 
 ---
 
-![Devtrotter stat](https://github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&theme=transparent)
+![Devtrotter stat](https://github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&theme=radical)
+
+---
+
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
