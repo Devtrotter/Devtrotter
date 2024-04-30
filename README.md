@@ -35,12 +35,8 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devtrotter&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Devtrotter" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devtrotter&custom_title=Devtrotter20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Devtrotter" />
 </p>
-    
-![Devtrotter stat](https://github-readme-stats.vercel.app/api?username=Devtrotter&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devtrotter&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/Devtrotter/github-readme-stats)
-</details>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
