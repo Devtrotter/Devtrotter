@@ -7,8 +7,8 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 
 * 🌍 Curently in France
 * 🚀 CEO at [Devtrotter](http://www.devtrotter.fr/)
-* 🌱 Currently working on [FDJ](http://www.fdj.fr/)
-* 🧠 Learning React native
+* 🌱 Currently available
+* 🧠 Learning React native and ux / ui design
 * 🎯 Became 1% of top developer
 * ⚡  I'm secretly flash... but don't tell anyone pls
 
