@@ -8,7 +8,7 @@ A French self-taught web developer, cybersecurity researcher, tech community bui
 * 🌍 Curently in France
 * 🚀 CEO at [Devtrotter](http://www.devtrotter.fr/)
 * 🌱 Currently Work at [Devtrotter](http://www.devtrotter.fr/)
-* 🧠 Learning React native and ux / ui design
+* 🧠 Learning AI & Design
 * 🎯 Became 1% of top developer
 * ⚡  I'm secretly flash... but don't tell anyone pls
 
